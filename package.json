@@ -1,0 +1,23 @@
+{
+  "name": "ift458-git-labs",
+  "version": "1.0.0",
+  "description": "Git and GitHub assignments for IFT 458 at Arizona State University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vader941/ift458-git-labs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vader941/ift458-git-labs/issues"
+  },
+  "homepage": "https://github.com/Vader941/ift458-git-labs#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
